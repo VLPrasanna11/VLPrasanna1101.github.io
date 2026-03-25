@@ -2,7 +2,6 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
-# Content configuration version
 version: 2
 
 # Personal info
@@ -11,7 +10,6 @@ title: Business Analyst
 email: lakshmiprasanna2002v@gmail.com
 website: https://vlprasanna11.github.io/VLPrasanna1101.github.io/
 
-# Dark Mode
 darkmode: false
 
 # Social links
@@ -20,10 +18,9 @@ github_username: VLPrasanna11
 instagram_username: _vlprasanna_
 linkedin_username: prasanna-varanasi
 
-# Additional links
 additional_links: []
 
-# About Section
+# About
 about_profile_image: photo.jpg
 about_content: |
   Hi, I’m Lakshmi Prasanna Varanasi, a Business Analyst with experience in retail analytics and data-driven decision making.
@@ -32,9 +29,10 @@ about_content: |
 
   Beyond work, I am deeply passionate about music. As a trained Carnatic classical singer with over 10 years of experience, I have performed in 200+ stage events across India.
 
-  I am currently preparing to transition into management through an MBA, with a strong interest in strategy, consulting, and business problem-solving.
+  I am currently preparing to transition into management through an MBA.
 
 content:
+
   - title: Experience
     layout: list
     content:
@@ -45,39 +43,39 @@ content:
         description: |
           Core member of the consulting team working with large fashion retail brands.
 
-          - Improved sell-through from 40–45% to ~60% through data-driven inventory allocation and replenishment strategies  
-          - Reduced store-level dead stock via inter-store transfers and liquidation strategies, improving stock utilization by 10–15%  
-          - Worked with product and tech teams to enhance solutions across fashion, FMCG, beauty, and home décor categories  
-          - Advised clients on revenue maximization and inventory optimization across multiple product categories
+          - Improved sell-through from 40–45% to ~60% through data-driven inventory strategies  
+          - Reduced dead stock and improved utilization by 10–15%  
+          - Worked with product & tech teams across FMCG, beauty, and fashion  
+          - Advised clients on revenue maximization
 
       - layout: left
         title: IIM Indore
         sub_title: Research Intern
         caption: May 2022 – July 2022 | Indore, India
         description: |
-          - Analysed 4 years of procurement data (2016–2019) for paddy and wheat farmers in Madhya Pradesh  
-          - Performed large-scale data cleaning and exploratory analysis on datasets beyond Excel capacity  
-          - Identified district-level patterns affecting farmer participation  
-          - Delivered insights to support policy-level recommendations
+          - Analysed 4 years of procurement data for farmers in MP  
+          - Performed large-scale data cleaning and EDA  
+          - Identified district-level participation trends  
+          - Delivered policy-level insights
 
   - title: Education
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: National Institute of Technology (NIT) Raipur
         sub_title: B.Tech in Metallurgical and Materials Engineering
         caption: Aug 2019 – May 2023
         description: |
           CGPA: 8.57
 
-      - layout: top-middle
+      - layout: left
         title: Class XII (Senior Secondary)
         sub_title: CBSE Board
         caption: 2019
         description: |
           Percentage: 97.4%
 
-      - layout: top-middle
+      - layout: left
         title: Class X (Secondary)
         sub_title: CBSE Board
         caption: 2017
@@ -87,36 +85,37 @@ content:
   - title: Leadership & Extracurriculars
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: RAAGA – Music Club, NIT Raipur
-        sub_title: Head Coordinator & Lead Vocalist (2022–23)
+        sub_title: Head Coordinator & Lead Vocalist
+        caption: 2022–23
         description: |
-          Organized "Shruti" musical fest with 1500+ attendees  
-          Led club performances and activities
+          - Organized "Shruti" fest with 1500+ attendees  
+          - Led performances and club operations
 
-      - layout: top-middle
+      - layout: left
         title: METSO (Metallurgical Society)
-        sub_title: Vice President (2022–23)
+        sub_title: Vice President
+        caption: 2022–23
         description: |
-          Conducted seminars with ~500 student participation  
+          - Conducted seminars with ~500 students  
 
-      - layout: top-middle
+      - layout: left
         title: Indian Red Cross Society
         sub_title: Social Ambassador
         description: |
-          Organized blood donation camp with 340 donors  
+          - Organized blood donation camp with 340 donors  
 
-      - layout: top-middle
+      - layout: left
         title: Carnatic Classical Music
         sub_title: Vocalist
         description: |
-          10+ years of training  
-          200+ stage performances across India
+          - 10+ years training  
+          - 200+ performances
 
 # Footer
 footer_show_references: true
 
-# Build settings
 remote_theme: sproogen/resume-theme
 
 sass:
