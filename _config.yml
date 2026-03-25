@@ -35,7 +35,6 @@ about_content: |
   I am currently preparing to transition into management through an MBA, with a strong interest in strategy, consulting, and business problem-solving.
 
 content:
-
   - title: Experience
     layout: list
     content:
@@ -61,6 +60,7 @@ content:
           • Identified district-level patterns affecting farmer participation  
           • Delivered insights to support policy-level recommendations
 
+content:
   - title: Education
   layout: list
   content:
