@@ -18,9 +18,9 @@ darkmode: false
 twitter_username: _Prasanna_V_
 github_username: VLPrasanna11
 instagram_username: _vlprasanna_
-linkedin_username: prasanna-varanasi   # update if needed
+linkedin_username: prasanna-varanasi
 
-# Additional links (optional — remove if you don’t want)
+# Additional links
 additional_links: []
 
 # About Section
@@ -45,74 +45,73 @@ content:
         description: |
           Core member of the consulting team working with large fashion retail brands.
 
-          • Improved sell-through from 40–45% to ~60% through data-driven inventory allocation and replenishment strategies  
-          • Reduced store-level dead stock via inter-store transfers and liquidation strategies, improving stock utilization by 10–15%  
-          • Worked with product and tech teams to enhance solutions across fashion, FMCG, beauty, and home décor categories  
-          • Advised clients on revenue maximization and inventory optimization across multiple product categories
+          - Improved sell-through from 40–45% to ~60% through data-driven inventory allocation and replenishment strategies  
+          - Reduced store-level dead stock via inter-store transfers and liquidation strategies, improving stock utilization by 10–15%  
+          - Worked with product and tech teams to enhance solutions across fashion, FMCG, beauty, and home décor categories  
+          - Advised clients on revenue maximization and inventory optimization across multiple product categories
 
       - layout: left
         title: IIM Indore
         sub_title: Research Intern
         caption: May 2022 – July 2022 | Indore, India
         description: |
-          • Analysed 4 years of procurement data (2016–2019) for paddy and wheat farmers in Madhya Pradesh  
-          • Performed large-scale data cleaning and exploratory analysis on datasets beyond Excel capacity  
-          • Identified district-level patterns affecting farmer participation  
-          • Delivered insights to support policy-level recommendations
+          - Analysed 4 years of procurement data (2016–2019) for paddy and wheat farmers in Madhya Pradesh  
+          - Performed large-scale data cleaning and exploratory analysis on datasets beyond Excel capacity  
+          - Identified district-level patterns affecting farmer participation  
+          - Delivered insights to support policy-level recommendations
 
-content:
   - title: Education
-  layout: list
-  content:
-    - layout: left
-      title: National Institute of Technology (NIT) Raipur
-      sub_title: B.Tech in Metallurgical and Materials Engineering
-      caption: Aug 2019 – May 2023
+    layout: list
+    content:
+      - layout: left
+        title: National Institute of Technology (NIT) Raipur
+        sub_title: B.Tech in Metallurgical and Materials Engineering
+        caption: Aug 2019 – May 2023
 
-    - layout: left
-      title: Class XII (Senior Secondary)
-      sub_title: CBSE Board
-      caption: 2019
-      description: |
-        • Percentage: 97.4%
+      - layout: left
+        title: Class XII (Senior Secondary)
+        sub_title: CBSE Board
+        caption: 2019
+        description: |
+          - Percentage: 97.4%
 
-    - layout: left
-      title: Class X (Secondary)
-      sub_title: CBSE Board
-      caption: 2017
-      description: |
-        • Percentage: [ADD YOUR % HERE]
+      - layout: left
+        title: Class X (Secondary)
+        sub_title: CBSE Board
+        caption: 2017
+        description: |
+          - Percentage: ADD YOUR %
 
-- title: Leadership & Extracurriculars
-  layout: list
-  content:
-    - layout: left
-      title: RAAGA – Music Club, NIT Raipur
-      sub_title: Head Coordinator & Lead Vocalist
-      caption: 2022–23
-      description: |
-        • Organized "Shruti" musical fest with 1500+ attendees  
-        • Led club activities and performances
+  - title: Leadership & Extracurriculars
+    layout: list
+    content:
+      - layout: left
+        title: RAAGA – Music Club, NIT Raipur
+        sub_title: Head Coordinator & Lead Vocalist
+        caption: 2022–23
+        description: |
+          - Organized "Shruti" musical fest with 1500+ attendees  
+          - Led club activities and performances
 
-    - layout: left
-      title: METSO (Metallurgical Society)
-      sub_title: Vice President
-      caption: 2022–23
-      description: |
-        • Conducted seminars with ~500 student participation  
+      - layout: left
+        title: METSO (Metallurgical Society)
+        sub_title: Vice President
+        caption: 2022–23
+        description: |
+          - Conducted seminars with ~500 student participation  
 
-    - layout: left
-      title: Indian Red Cross Society
-      sub_title: Social Ambassador
-      description: |
-        • Organized blood donation camp with 340 donors  
+      - layout: left
+        title: Indian Red Cross Society
+        sub_title: Social Ambassador
+        description: |
+          - Organized blood donation camp with 340 donors  
 
-    - layout: left
-      title: Music
-      sub_title: Carnatic Classical Vocalist
-      description: |
-        • 10+ years of training  
-        • 200+ stage performances across India
+      - layout: left
+        title: Music
+        sub_title: Carnatic Classical Vocalist
+        description: |
+          - 10+ years of training  
+          - 200+ stage performances across India
 
 # Footer
 footer_show_references: true
@@ -125,4 +124,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
