@@ -63,55 +63,55 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: National Institute of Technology (NIT) Raipur
         sub_title: B.Tech in Metallurgical and Materials Engineering
         caption: Aug 2019 – May 2023
+        description: |
+          CGPA: 8.57
 
-      - layout: left
+      - layout: top-middle
         title: Class XII (Senior Secondary)
         sub_title: CBSE Board
         caption: 2019
         description: |
-          - Percentage: 97.4%
+          Percentage: 97.4%
 
-      - layout: left
+      - layout: top-middle
         title: Class X (Secondary)
         sub_title: CBSE Board
         caption: 2017
         description: |
-          - Percentage: ADD YOUR %
+          CGPA: 10
 
   - title: Leadership & Extracurriculars
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: RAAGA – Music Club, NIT Raipur
-        sub_title: Head Coordinator & Lead Vocalist
-        caption: 2022–23
+        sub_title: Head Coordinator & Lead Vocalist (2022–23)
         description: |
-          - Organized "Shruti" musical fest with 1500+ attendees  
-          - Led club activities and performances
+          Organized "Shruti" musical fest with 1500+ attendees  
+          Led club performances and activities
 
-      - layout: left
+      - layout: top-middle
         title: METSO (Metallurgical Society)
-        sub_title: Vice President
-        caption: 2022–23
+        sub_title: Vice President (2022–23)
         description: |
-          - Conducted seminars with ~500 student participation  
+          Conducted seminars with ~500 student participation  
 
-      - layout: left
+      - layout: top-middle
         title: Indian Red Cross Society
         sub_title: Social Ambassador
         description: |
-          - Organized blood donation camp with 340 donors  
+          Organized blood donation camp with 340 donors  
 
-      - layout: left
-        title: Music
-        sub_title: Carnatic Classical Vocalist
+      - layout: top-middle
+        title: Carnatic Classical Music
+        sub_title: Vocalist
         description: |
-          - 10+ years of training  
-          - 200+ stage performances across India
+          10+ years of training  
+          200+ stage performances across India
 
 # Footer
 footer_show_references: true
