@@ -62,27 +62,57 @@ content:
           • Delivered insights to support policy-level recommendations
 
   - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: National Institute of Technology (NIT) Raipur
-        sub_title: B.Tech in Metallurgical and Materials Engineering
-        caption: Aug 2019 – May 2023
+  layout: list
+  content:
+    - layout: left
+      title: National Institute of Technology (NIT) Raipur
+      sub_title: B.Tech in Metallurgical and Materials Engineering
+      caption: Aug 2019 – May 2023
 
-  - title: Leadership & Extracurriculars
-    layout: text
-    content: |
-      • Head Coordinator & Lead Vocalist, RAAGA – Music Club (2022–23)  
-        Organized "Shruti" musical fest with 1500+ attendees  
+    - layout: left
+      title: Class XII (Senior Secondary)
+      sub_title: CBSE Board
+      caption: 2019
+      description: |
+        • Percentage: 97.4%
 
-      • Vice President, METSO (Metallurgical Society)  
-        Conducted seminars with ~500 student participation  
+    - layout: left
+      title: Class X (Secondary)
+      sub_title: CBSE Board
+      caption: 2017
+      description: |
+        • Percentage: [ADD YOUR % HERE]
 
-      • Social Ambassador, Indian Red Cross Society  
-        Organized blood donation camp with 340 donors  
+- title: Leadership & Extracurriculars
+  layout: list
+  content:
+    - layout: left
+      title: RAAGA – Music Club, NIT Raipur
+      sub_title: Head Coordinator & Lead Vocalist
+      caption: 2022–23
+      description: |
+        • Organized "Shruti" musical fest with 1500+ attendees  
+        • Led club activities and performances
 
-      • Trained Carnatic classical singer with 10+ years of experience  
-        Performed in 200+ stage performances across India
+    - layout: left
+      title: METSO (Metallurgical Society)
+      sub_title: Vice President
+      caption: 2022–23
+      description: |
+        • Conducted seminars with ~500 student participation  
+
+    - layout: left
+      title: Indian Red Cross Society
+      sub_title: Social Ambassador
+      description: |
+        • Organized blood donation camp with 340 donors  
+
+    - layout: left
+      title: Music
+      sub_title: Carnatic Classical Vocalist
+      description: |
+        • 10+ years of training  
+        • 200+ stage performances across India
 
 # Footer
 footer_show_references: true
